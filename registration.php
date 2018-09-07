@@ -1,11 +1,5 @@
 /* I'm assumming you already have created a form to retrive the values from the user. o this will just focus only on sending the code to the db 
 and sending the sms to their phones
-
-Now, before you attempt to use this, you must have registered on a sms sending site and gotten their api. the api will have some variables 
-that you must provide in your code before using/initalizing the api. 
-Currently, im using ebulksms.com (which i'll use in this code). You can register with them and get your api key to use. :)
-
-
 */
 
 //im asumming this are the filds reguired in the login.Add yours to it
