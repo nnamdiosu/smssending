@@ -40,6 +40,6 @@ alert("Registration successfull, text messge sent to you.");
 window.location="sendsms.php"; // redirect the user to some page
 </script>
 
-
+<?php
 // Thats all :) simple. Thanks for using/checking in
 ?>
