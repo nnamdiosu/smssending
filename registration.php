@@ -1,3 +1,4 @@
+<?php
 /* I'm assumming you already have created a form to retrive the values from the user. o this will just focus only on sending the code to the db 
 and sending the sms to their phones
 */
@@ -41,3 +42,4 @@ window.location="sendsms.php"; // redirect the user to some page
 
 
 // Thats all :) simple. Thanks for using/checking in
+?>
